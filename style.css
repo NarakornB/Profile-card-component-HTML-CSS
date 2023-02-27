@@ -44,7 +44,7 @@ body {
     height: 100%;
     width: 290px;
     border-radius: 20px 20px 20px 20px;
-
+    box-shadow: 8px 10px 20px 0px hsl(185, 75%, 39%);
 }
 .card-profile-bg img{
     /* position: relative; */
@@ -53,9 +53,7 @@ body {
     
 }
 
-.card-profile-img{
-    height: ;
-}
+
 .card-profile-img img{
     border-radius: 50%;
     width: 4em;
